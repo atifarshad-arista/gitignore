@@ -1,1 +1,8 @@
+# Ignore single file (s)
 new-file.txt
+
+# Ignore all files in this directory
+bin/
+
+# Ignore all .temp files (examnple)
+*.temp
